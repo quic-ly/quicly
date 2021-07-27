@@ -1,7 +1,7 @@
 [package]
 name = "quicly"
 version = "0.0.0"
-authors = ["Rain Liu <yuliu@outlook.com>"]
+authors = ["Y.L. <yl@quic.ly>"]
 edition = "2018"
 description = "A pure Rust implementation of QUIC"
 license = "MIT"
