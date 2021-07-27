@@ -1,6 +1,6 @@
 [package]
 name = "quicly"
-version = "0.0.0"
+version = "0.0.1"
 authors = ["Y.L. <yl@quic.ly>"]
 edition = "2018"
 description = "A pure Rust implementation of QUIC"
