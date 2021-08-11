@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
  <a href="https://github.com/quic-ly/quicly/actions"> 
-  <img src="https://github.com/quic-ly/quicly/workflows/cargo/badge.svg">
+  <img src="https://github.com/quic-ly/quicly/workflows/quicly/badge.svg">
  </a> 
  <a href="https://codecov.io/gh/quic-ly/quicly"> 
   <img src="https://codecov.io/gh/quic-ly/quicly/branch/main/graph/badge.svg">
