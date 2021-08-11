@@ -7,7 +7,7 @@
   <img src="https://github.com/quic-ly/quicly/workflows/quicly/badge.svg">
  </a> 
  <a href="https://codecov.io/gh/quic-ly/quicly"> 
-  <img src="https://codecov.io/gh/quic-ly/quicly/branch/main/graph/badge.svg">
+  <img src="https://codecov.io/gh/quic-ly/quicly/branch/master/graph/badge.svg">
  </a>
  <a href="https://deps.rs/repo/github/quic-ly/quicly"> 
   <img src="https://deps.rs/repo/github/quic-ly/quicly/status.svg">
