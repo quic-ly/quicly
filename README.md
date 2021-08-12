@@ -23,5 +23,5 @@
  </a>
 </p>
 <p align="center">
- A pure Rust implementation of QUIC.
+ Making a quickly QUIC in Rust!
 </p>
